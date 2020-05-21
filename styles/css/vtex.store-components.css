@@ -1,4 +1,4 @@
-.infoCard-container {
+.infoCardContainer {
     max-width: 1260px;
     margin: 0 auto;
     padding: 0;
@@ -29,6 +29,6 @@
     background-color: #EDCFD1
 }
 
-.infoCardCallActionContainer--metal {
+.infoCardCallActionContainer--metal :global(.vtex-button) {
     background-color: #e1e1e1;
 }
