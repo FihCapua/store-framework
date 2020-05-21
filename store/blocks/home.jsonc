@@ -3,7 +3,6 @@
       "children": [
         "info-card#rethink",
         "rich-text#deletar",
-        "flex-layout.col",
         "image#electronics",
         "image#major-appliance"
       ]
@@ -37,4 +36,4 @@
         "maxWidth": "100%"
       }
     }
-  }    
+  }
